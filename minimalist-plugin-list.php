@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: minimalist-plugin-list
-Plugin URI: https://minimalist.software
+Plugin URI: https://github.com/minimalistsoftware/minimalist-plugin-list
 Description: List plugins installed with versions
 Author: Minimalist Software
 Version: 0.1
